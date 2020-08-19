@@ -30,7 +30,7 @@ public class HelloWorld extends Application {
 			@Override
 			public void handle(ActionEvent event) {
 				// 2 =
-				System.out.println("Hello 2 ADD");
+				System.out.println("Hello 2 ");
 				
 			}
 			
